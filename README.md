@@ -1,2 +1,27 @@
-# OpoderIntuitivoDoFlexbox
-Desafio - Criar um artigo utilizando a IA (CHATGPT) e Bing Image Creator, como aliadas em formatações de texto e criação de imagem para capa do projeto, com prompts ricos e bem especifícos.
+<h1>
+   <img src="C:\Users\EMAGH\Downloads\canva.com"/>
+   <p>Criando Experiências de Usuário Fluidas: O Poder Intuitivo do Flexbox no CSS</p>
+
+</h1> 📘 Projeto de referência </h1> <a>https://web.dio.me/articles/criando-experiencias-de-usuario-fluidas-o-poder-intuitivo-do-flexbox-no-css?back=%2Farticles&page=1&order=oldest</a> 
+
+## 📕 About
+
+Projeto criado utilizando as melhores promps de comando na **IA CHATGPT** para geração de texto
+
+## 🔨🧠Ferramentas utilizadas no projeto
+
+ - ChatGPT
+ - BingImage Creator
+ - Correções 100% humanas
+
+
+ ## 🛎️ Linguagem utilizada
+ 
+ ``````CSS``````
+ 
+## ✍️ Projeto de referência
+
+ ```https://github.com/felipeAguiarCode/prompts-for-article-generate-by-ia```
+
+
+
